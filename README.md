@@ -1,2 +1,1 @@
-# Computer-architecture
-lab
+# computer-Architecture
